@@ -1,2 +1,5 @@
-Marissa = "I love her forever"
-print Marissa
+def marissaforever ():
+    Marissa = "I love Marissa forever"
+    print(Marissa)
+
+marissaforever()
